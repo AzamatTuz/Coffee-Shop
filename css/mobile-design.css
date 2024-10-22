@@ -198,6 +198,10 @@
         height: fit-content;
     }
 
+    section div {
+        width: fit-content;
+    }
+
     .bg-color {
         background: #a5582c;
         width: fit-content;
@@ -213,4 +217,9 @@
         border-top-left-radius: 0%;
         border-bottom-left-radius: 0%;
     }
+
+    .index-main {
+        margin-left: 23px;
+    }
+
 }
