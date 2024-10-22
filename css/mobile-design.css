@@ -135,6 +135,10 @@
     
     }
 
+    footer {
+        width: 100%;
+    }
+
     nav ul li:hover ul {
         display: none;
     }
@@ -216,10 +220,6 @@
         width: fit-content;
         border-top-left-radius: 0%;
         border-bottom-left-radius: 0%;
-    }
-
-    .index-main {
-        margin-left: 23px;
     }
 
 }
